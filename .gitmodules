@@ -1,0 +1,9 @@
+[submodule "cpp-linenoise"]
+	path = cpp-linenoise
+	url = https://github.com/yhirose/cpp-linenoise
+[submodule "precision"]
+	path = precision
+	url = https://github.com/LoganDark/cpp-precision
+[submodule "termcolor"]
+	path = termcolor
+	url = https://github.com/ikalnytskyi/termcolor
